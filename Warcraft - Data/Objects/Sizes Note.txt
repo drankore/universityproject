@@ -1,0 +1,10 @@
+Peasant
+	Size: 0.4.
+	
+Buildings are not modified.
+
+Ships are not modified.
+
+Airplanes carriers are not modified.
+
+Creatures like dragons are not modified.
